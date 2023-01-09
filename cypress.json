@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://angular.realworld.io",
+  "includeShadowDom": true,
+  "chromeWebSecurity": true,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920
+}
